@@ -111,7 +111,7 @@ Except as contemplated herein, our Terms do not give any third-party beneficiary
 
 If we fail to enforce any of our Terms, it will not be considered a waiver.
 
-If any provision of these Terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions, except as set forth in the “Special Arbitration Provision for United States or Canada Users” — “Severability” section below.
+If any provision of these Terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from our Terms and shall not affect the validity and enforceability of the remaining provisions.
 
 We reserve all rights not expressly granted by us to you. In certain jurisdictions, you may have legal rights as a consumer, and our Terms are not intended to limit such consumer legal rights that may not be waived by contract.
 
