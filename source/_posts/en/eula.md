@@ -21,7 +21,7 @@ categories:
 # GlobalChat Draw Terms Of Service
 
 
-Mindynamics, LLC (“Mindynamics,” “our,” “we,” or “us”) provides messaging, and other services to users around the world. Please read our Terms of Service so you understand what’s up with your use of GlobalChat Draw. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”).
+Mindynamics, LLC (“Mindynamics,” “our,” “we,” or “us”) provides messaging, and other services to users around the world. Please read our Terms of Service so you understand your use of GlobalChat Draw. You agree to our Terms of Service (“Terms”) by installing, accessing, or using our apps, services, features, software, or website (together, “Services”).
 
 
 NO ACCESS TO EMERGENCY SERVICES: There are important differences between GlobalChat Draw and your mobile and fixed-line telephone and SMS services. Our Services do not provide access to emergency services or emergency services providers, including the police, fire departments, or hospitals, or otherwise connect to public safety answering points. You should ensure you can contact your relevant emergency services providers through a mobile, fixed-line telephone, or other service.
